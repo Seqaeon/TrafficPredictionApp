@@ -1,5 +1,5 @@
 # Traffic_App
-https://team-scipy-traffic-predictor-ap.streamlitapp.com/
+https://trafficapp-e6xuq8csemcmbq6nlgkvic.streamlit.app/
 # Traffic_Analysis_and_Prediction
 
 # Introduction
